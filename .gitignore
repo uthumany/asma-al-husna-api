@@ -3,7 +3,11 @@
 __pycache__/
 *.pyc
 
+# Dependencies
+.nvm/
+.local/share/pnpm/
+node_modules/
+
 # Data
 # asma_al_husna.json is included for reproducibility, but could be ignored
 # if it were a large file.
-.nvm/
