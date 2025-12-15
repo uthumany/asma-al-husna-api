@@ -1,0 +1,9 @@
+# Environment
+.cache/
+__pycache__/
+*.pyc
+
+# Data
+# asma_al_husna.json is included for reproducibility, but could be ignored
+# if it were a large file.
+.nvm/

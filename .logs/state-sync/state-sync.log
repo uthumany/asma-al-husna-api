@@ -1,0 +1,33 @@
+{"time":"2025-12-15T18:33:41.942796319-05:00","level":"INFO","msg":"Sentry initialized","dsn":"https://962d173a894d***","environment":"PROD","release":"6.2.24","sandbox_id":"iv323tvuu6jgwpj56tvct"}
+{"time":"2025-12-15T18:33:41.943320819-05:00","level":"INFO","msg":"Sentry initialized successfully"}
+{"time":"2025-12-15T18:33:41.943330926-05:00","level":"INFO","msg":"State sync service starting","log_file":"/home/ubuntu/.logs/state-sync/state-sync.log"}
+{"time":"2025-12-15T18:33:41.943648406-05:00","level":"INFO","msg":"Starting state sync service"}
+{"time":"2025-12-15T18:33:41.943691033-05:00","level":"INFO","msg":"Pulling initial state from S3"}
+{"time":"2025-12-15T18:33:42.103238854-05:00","level":"INFO","msg":"Successfully pulled initial state","etag":"\"d1b6338e4f3001a95e545382f82fc7af\"","cookie_domains":58,"localStorage_domains":26}
+{"time":"2025-12-15T18:33:42.103291733-05:00","level":"INFO","msg":"Connecting to browser","port":"9222"}
+{"time":"2025-12-15T18:33:42.107146402-05:00","level":"INFO","msg":"Found chrome://newtab/ to reuse","target_id":"703CF42A497C937A456D010A6B324858"}
+{"time":"2025-12-15T18:33:42.107202689-05:00","level":"INFO","msg":"Reusing existing target for cookie sync","target_id":"703CF42A497C937A456D010A6B324858"}
+{"time":"2025-12-15T18:33:42.107213955-05:00","level":"INFO","msg":"Successfully connected to browser"}
+{"time":"2025-12-15T18:33:42.107218036-05:00","level":"INFO","msg":"Syncing state to browser"}
+{"time":"2025-12-15T18:33:42.107226375-05:00","level":"INFO","msg":"Syncing cookies to browser","cookie_count":142}
+{"time":"2025-12-15T18:33:42.174444222-05:00","level":"INFO","msg":"Successfully synced cookies to browser"}
+{"time":"2025-12-15T18:33:42.174473878-05:00","level":"INFO","msg":"Successfully synced state to browser"}
+{"time":"2025-12-15T18:33:42.174478301-05:00","level":"INFO","msg":"Setting up state watchers"}
+{"time":"2025-12-15T18:33:42.174495743-05:00","level":"INFO","msg":"Starting CDP watcher"}
+{"time":"2025-12-15T18:33:42.193595341-05:00","level":"INFO","msg":"Created hidden monitoring target","target_id":"16AD22430C235950637D9509988ACB8B"}
+{"time":"2025-12-15T18:33:42.193633738-05:00","level":"INFO","msg":"Using hidden target for monitoring (should not be visible)"}
+{"time":"2025-12-15T18:33:42.193640638-05:00","level":"INFO","msg":"State watchers setup complete"}
+{"time":"2025-12-15T18:33:42.193644253-05:00","level":"INFO","msg":"Waiting for browser to stabilize after cookie sync","delay":5000000000}
+{"time":"2025-12-15T18:33:42.19366522-05:00","level":"INFO","msg":"Starting target monitoring"}
+{"time":"2025-12-15T18:33:42.223686938-05:00","level":"INFO","msg":"Handling target","target_id":"703CF42A497C937A456D010A6B324858","url":"chrome://newtab/"}
+{"time":"2025-12-15T18:33:47.196665938-05:00","level":"INFO","msg":"Browser stabilization complete, cookie polling started with current state as baseline"}
+{"time":"2025-12-15T18:33:47.196771524-05:00","level":"INFO","msg":"Starting cookie polling","interval":1000000000}
+{"time":"2025-12-15T18:33:47.196898633-05:00","level":"INFO","msg":"Wrote sync ready marker","path":"/home/ubuntu/.config/state-sync/.sync-ready"}
+{"time":"2025-12-15T18:33:47.196916825-05:00","level":"INFO","msg":"State sync service started successfully"}
+{"time":"2025-12-15T18:33:47.196924419-05:00","level":"INFO","msg":"Started watching config file","path":"/home/ubuntu/.config/state-sync/state-sync-config.yaml"}
+{"time":"2025-12-15T18:33:58.439975115-05:00","level":"INFO","msg":"Handling target","target_id":"16AD22430C235950637D9509988ACB8B","url":"https://aladhan.com/asma-al-husna-api"}
+{"time":"2025-12-15T18:33:59.206147496-05:00","level":"INFO","msg":"Detected cookie changes, notifying listeners","patch_count":1,"time_since_last":9223372036854775807}
+{"time":"2025-12-15T18:33:59.303899573-05:00","level":"INFO","msg":"Successfully pushed state to S3","etag":"\"94b4bf8f76c75ff2bc534bf415319b7e\""}
+{"time":"2025-12-15T18:34:00.010095997-05:00","level":"INFO","msg":"Handling target","target_id":"703CF42A497C937A456D010A6B324858","url":"chrome://newtab/"}
+{"time":"2025-12-15T18:34:00.013768887-05:00","level":"ERROR","msg":"Failed to enable DOM storage events","target_id":"703CF42A497C937A456D010A6B324858","error":"No target with given id found (-32602)"}
+{"time":"2025-12-15T18:34:07.689624785-05:00","level":"INFO","msg":"Handling target","target_id":"16AD22430C235950637D9509988ACB8B","url":"https://aladhan.com/asma-al-husna-api#get-/asmaAlHusna/-number-"}

@@ -1,0 +1,149 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "host.exp.exponent",
+    "module": "expo.modules.av",
+    "version": "16.0.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer",
+          "version": {
+            "requires": "2.18.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "extension-okhttp",
+          "version": {
+            "requires": "2.18.1"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "3.14.9"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp-urlconnection",
+          "version": {
+            "requires": "3.14.9"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "expo.modules.av-16.0.8.aar",
+          "url": "expo.modules.av-16.0.8.aar",
+          "size": 326999,
+          "sha512": "817968623b9f93b53408fb0f7fe6509939f9ae00eb14300609facd7214151fc87845d8df8a30b6ff471ca4a386440305db4afac88cd0cd1122beb1a9923c3910",
+          "sha256": "9caceffd8abd26c7f2cb95b8fb20b274e4c6d1d6ab39c0ae6b2b6a76f40426e9",
+          "sha1": "654072666e8db9ca2e58861a99b9be7dee44f26e",
+          "md5": "fb5571aca4e8f8f1e17da922461fe54c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk7",
+          "version": {
+            "requires": "2.1.20"
+          }
+        },
+        {
+          "group": "com.facebook.react",
+          "module": "react-android"
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "exoplayer",
+          "version": {
+            "requires": "2.18.1"
+          }
+        },
+        {
+          "group": "com.google.android.exoplayer",
+          "module": "extension-okhttp",
+          "version": {
+            "requires": "2.18.1"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "3.14.9"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp-urlconnection",
+          "version": {
+            "requires": "3.14.9"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "expo.modules.av-16.0.8.aar",
+          "url": "expo.modules.av-16.0.8.aar",
+          "size": 326999,
+          "sha512": "817968623b9f93b53408fb0f7fe6509939f9ae00eb14300609facd7214151fc87845d8df8a30b6ff471ca4a386440305db4afac88cd0cd1122beb1a9923c3910",
+          "sha256": "9caceffd8abd26c7f2cb95b8fb20b274e4c6d1d6ab39c0ae6b2b6a76f40426e9",
+          "sha1": "654072666e8db9ca2e58861a99b9be7dee44f26e",
+          "md5": "fb5571aca4e8f8f1e17da922461fe54c"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "expo.modules.av-16.0.8-sources.jar",
+          "url": "expo.modules.av-16.0.8-sources.jar",
+          "size": 48640,
+          "sha512": "5a9efd16a2765beb449746e0db391431d85acb119fad8713ace9076c79159a36e989ad8de0642c907c906c01fa4ee204b5cd03b1f4bbec5e8e080960c0988f8b",
+          "sha256": "91e24c69bd7e044eaf3ebee51c58f543b5f7f3340b01c387b73f31aab1841616",
+          "sha1": "589c44d807c4ca3df01bfe1f81be82e026b572c8",
+          "md5": "d7881eeb90fedb38f4a03d71135ba173"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+0 verbose cli /home/ubuntu/.nvm/versions/node/v22.13.0/bin/node /home/ubuntu/.nvm/versions/node/v22.13.0/bin/npm
+1 info using npm@10.9.2
+2 info using node@v22.13.0
+3 silly config load:file:/home/ubuntu/.nvm/versions/node/v22.13.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/ubuntu/.npmrc
+5 silly config load:file:/home/ubuntu/.nvm/versions/node/v22.13.0/etc/npmrc
+6 verbose title npm install pnpm
+7 verbose argv "install" "--global" "pnpm"
+8 verbose logfile logs-max:10 dir:/home/ubuntu/.npm/_logs/2025-12-15T10_33_29_753Z-
+9 verbose logfile /home/ubuntu/.npm/_logs/2025-12-15T10_33_29_753Z-debug-0.log
+10 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+11 silly logfile done cleaning log files
+12 silly idealTree buildDeps
+13 silly fetch manifest pnpm@*
+14 silly packumentCache full:https://registry.npmjs.org/pnpm cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/npm 109ms
+16 http fetch GET 200 https://registry.npmjs.org/pnpm 128ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/pnpm set size:undefined disposed:false
+18 silly placeDep ROOT pnpm@10.25.0 OK for:  want: *
+19 silly reify moves {}
+20 http cache pnpm@https://registry.npmjs.org/pnpm/-/pnpm-10.25.0.tgz 1ms (cache hit)
+21 silly tarball no local data for pnpm@https://registry.npmjs.org/pnpm/-/pnpm-10.25.0.tgz. Extracting by manifest.
+22 http fetch GET 200 https://registry.npmjs.org/pnpm/-/pnpm-10.25.0.tgz 268ms (cache miss)
+23 silly ADD node_modules/pnpm
+24 verbose cwd /home/ubuntu
+25 verbose os Linux 6.8.0-1029-aws
+26 verbose node v22.13.0
+27 verbose npm  v10.9.2
+28 notice
+28 notice New major version of npm available! 10.9.2 -> 11.7.0
+28 notice Changelog: https://github.com/npm/cli/releases/tag/v11.7.0
+28 notice To update run: npm install -g npm@11.7.0
+28 notice  { force: true, [Symbol(proc-log.meta)]: true }
+29 verbose exit 0
+30 info ok
