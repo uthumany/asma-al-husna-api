@@ -6,7 +6,7 @@ import os
 app = FastAPI(
     title="Asma Al Husna API with Fonts",
     description="A simple API for the 99 names of Allah (Asma Al Husna) with Arabic font support.",
-    version="2.1.0"
+    version="2.2.0"
 )
 
 # Define the path to the pre-processed data file
@@ -42,7 +42,7 @@ FONTS = {
     "fustat": {
         "name": "Fustat",
         "url": "https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&display=swap",
-        "family": "'Fustat', serif"
+        "family": "'Fustat', sans-serif"
     },
     "badeen-display": {
         "name": "Badeen Display",
@@ -261,7 +261,7 @@ async def get_fonts():
 @app.get("/health", summary="Health check endpoint")
 async def health_check():
     """Returns a simple status message."""
-    return {"status": "ok", "version": "2.1.0"}
+    return {"status": "ok", "version": "2.2.0"}
 
 if __name__ == "__main__":
     import uvicorn
