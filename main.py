@@ -4,9 +4,9 @@ from fastapi.responses import JSONResponse, HTMLResponse
 import os
 
 app = FastAPI(
-    title="Asma Al Husna API with Fonts",
-    description="A simple API for the 99 names of Allah (Asma Al Husna) with Arabic font support.",
-    version="2.2.0"
+    title="Asma Al Husna API with Fonts & Audio",
+    description="A simple API for the 99 names of Allah (Asma Al Husna) with Arabic font support and audio URLs.",
+    version="3.0.0"
 )
 
 # Define the path to the pre-processed data file
@@ -137,7 +137,8 @@ async def get_root():
                 justify-content: center;
             }}
             .transliteration {{ font-weight: bold; color: #e67e22; font-size: 18px; }}
-            .meaning {{ color: #7f8c8d; margin-top: 8px; font-style: italic; }}
+            .description {{ color: #7f8c8d; margin-top: 8px; font-style: italic; font-size: 14px; }}
+            .audio-player {{ margin-top: 15px; width: 100%; }}
             .api-info {{ background: #e3f2fd; padding: 15px; border-radius: 4px; margin-bottom: 20px; }}
             .api-info p {{ margin: 5px 0; }}
             code {{ background: #eee; padding: 2px 5px; border-radius: 3px; }}
@@ -150,6 +151,7 @@ async def get_root():
             <div class="api-info">
                 <p><strong>API Endpoints:</strong></p>
                 <p>JSON API: <code>/api/names?font=reem-kufi-fun</code></p>
+                <p>Audio API: <code>/api/audio</code></p>
                 <p>Available fonts: <code>{font_list_text}</code></p>
             </div>
             
@@ -182,8 +184,12 @@ async def get_root():
                         div.className = 'name-item';
                         div.innerHTML = `
                             <div class="arabic" style="font-family: ${{fontData.family}}">${{item.name}}</div>
-                            <div class="transliteration">${{item.transliteration}}</div>
-                            <div class="meaning">${{item.meaning}}</div>
+                            <div class="transliteration">${{item.number}}. ${{item.transliteration}}</div>
+                            <div class="description">${{item.description}}</div>
+                            <audio controls class="audio-player">
+                                <source src="${{item.audio_url}}" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                            </audio>
                         `;
                         container.appendChild(div);
                     }});
@@ -244,6 +250,28 @@ async def get_all_names(font: str = Query("default", description="Font family to
     
     return response_data
 
+@app.get("/api/audio", summary="Get all 99 names with audio URLs")
+async def get_audio_urls():
+    """
+    Returns a JSON array containing Allah's Name Number, Names, and Audio CDN URLs.
+    """
+    if "error" in asma_al_husna_data:
+        return JSONResponse(status_code=500, content=asma_al_husna_data)
+    
+    audio_data = []
+    for item in asma_al_husna_data:
+        audio_data.append({
+            "number": item["number"],
+            "name_arabic": item["name"],
+            "name_english": item["transliteration"],
+            "audio_url": item["audio_url"]
+        })
+    
+    return {
+        "count": len(audio_data),
+        "audio_names": audio_data
+    }
+
 @app.get("/api/names/fonts", summary="Get available fonts")
 async def get_fonts():
     """Returns a list of all available fonts."""
@@ -261,7 +289,7 @@ async def get_fonts():
 @app.get("/health", summary="Health check endpoint")
 async def health_check():
     """Returns a simple status message."""
-    return {"status": "ok", "version": "2.2.0"}
+    return {"status": "ok", "version": "3.0.0"}
 
 if __name__ == "__main__":
     import uvicorn

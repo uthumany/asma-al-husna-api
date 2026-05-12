@@ -1,497 +1,695 @@
 [
     {
+        "number": 1,
         "name": "الرَّحْمَنُ",
-        "transliteration": "Ar Rahmaan",
-        "meaning": "The Beneficent"
+        "transliteration": "Ar-Rahman",
+        "description": "(The Beneficent) He who wills goodness and mercy for all His creatures",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/1.mp3"
     },
     {
+        "number": 2,
         "name": "الرَّحِيمُ",
-        "transliteration": "Ar Raheem",
-        "meaning": "The Merciful"
+        "transliteration": "Ar-Raheem",
+        "description": "(The Merciful) He who acts with extreme kindness",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/2.mp3"
     },
     {
+        "number": 3,
         "name": "الْمَلِكُ",
-        "transliteration": "Al Malik",
-        "meaning": "The King / Eternal Lord"
+        "transliteration": "Al-Malik",
+        "description": "(The King) The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/3.mp3"
     },
     {
+        "number": 4,
         "name": "الْقُدُّوسُ",
-        "transliteration": "Al Quddus",
-        "meaning": "The Purest"
+        "transliteration": "Al-Quddus",
+        "description": "(The Most Sacred / The Most Holy) The one who is pure, so far removed of any imperfection. He has no shortcomings, evil is not attributed to Him.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/4.mp3"
     },
     {
+        "number": 5,
         "name": "السَّلاَمُ",
-        "transliteration": "As Salaam",
-        "meaning": "The Source of Peace"
+        "transliteration": "As-Salam",
+        "description": "(The Giver of Peace) The One who is free from every imperfection. It is because He is free of any defect that one who is with Him experiences tranquility.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/5.mp3"
     },
     {
+        "number": 6,
         "name": "الْمُؤْمِنُ",
-        "transliteration": "Al Mu'min",
-        "meaning": "The inspirer of faith"
+        "transliteration": "Al-Mumin",
+        "description": "(The Infuser of Faith) The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/6.mp3"
     },
     {
+        "number": 7,
         "name": "الْمُهَيْمِنُ",
-        "transliteration": "Al Muhaymin",
-        "meaning": "The Guardian"
+        "transliteration": "Al-Muhaymin",
+        "description": "(The Guardian) The One who witnesses the saying and deeds of His creatures.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/7.mp3"
     },
     {
+        "number": 8,
         "name": "الْعَزِيزُ",
-        "transliteration": "Al Azeez",
-        "meaning": "The Precious / The Most Mighty"
+        "transliteration": "Al-Aziz",
+        "description": "(The Mighty One) The Strong, The Defeater who is not defeated",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/8.mp3"
     },
     {
+        "number": 9,
         "name": "الْجَبَّارُ",
-        "transliteration": "Al Jabbaar",
-        "meaning": "The Compeller"
+        "transliteration": "Al-Jabbar",
+        "description": "(The All Compelling) The One that nothing happens in His Dominion except that which He willed",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/9.mp3"
     },
     {
+        "number": 10,
         "name": "الْمُتَكَبِّرُ",
-        "transliteration": "Al Mutakabbir",
-        "meaning": "The Greatest"
+        "transliteration": "Al-Mutakabbir",
+        "description": "(The Dominant One) The One who is clear from the attributes of the creatures and from resembling them.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/10.mp3"
     },
     {
+        "number": 11,
         "name": "الْخَالِقُ",
-        "transliteration": "Al Khaaliq",
-        "meaning": "The Creator"
+        "transliteration": "Al-Khaliq",
+        "description": "(The Creator) The One who brings everything from non-existence to existence",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/11.mp3"
     },
     {
+        "number": 12,
         "name": "الْبَارِئُ",
-        "transliteration": "Al Baari",
-        "meaning": "The Maker of Order"
+        "transliteration": "Al-Bari",
+        "description": "(The Evolver / The Maker) The Maker, The Creator who has the Power to turn the entities.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/12.mp3"
     },
     {
+        "number": 13,
         "name": "الْمُصَوِّرُ",
-        "transliteration": "Al Musawwir",
-        "meaning": "The Shaper of Beauty"
+        "transliteration": "Al-Musawwir",
+        "description": "(The Flawless Shaper) The One who forms His creatures in different pictures.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/13.mp3"
     },
     {
+        "number": 14,
         "name": "الْغَفَّارُ",
-        "transliteration": "Al Ghaffaar",
-        "meaning": "The Forgiving"
+        "transliteration": "Al-Ghaffar",
+        "description": "(The Great Forgiver) The Forgiver, The One who forgives the sins of His slaves time and time again.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/14.mp3"
     },
     {
+        "number": 15,
         "name": "الْقَهَّارُ",
-        "transliteration": "Al Qahhaar",
-        "meaning": "The Subduer"
+        "transliteration": "Al-Qahhar",
+        "description": "(The All-Prevailing One) The Dominant, The One who has the perfect Power and is not unable over anything.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/15.mp3"
     },
     {
+        "number": 16,
         "name": "الْوَهَّابُ",
-        "transliteration": "Al Wahhaab",
-        "meaning": "The Giver of All"
+        "transliteration": "Al-Wahhab",
+        "description": "(The Supreme Bestower) The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/16.mp3"
     },
     {
+        "number": 17,
         "name": "الرَّزَّاقُ",
-        "transliteration": "Ar Razzaaq",
-        "meaning": "The Sustainer"
+        "transliteration": "Ar-Razzaq",
+        "description": "(The Total Provider) The Sustainer, The Provider.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/17.mp3"
     },
     {
+        "number": 18,
         "name": "الْفَتَّاحُ",
-        "transliteration": "Al Fattaah",
-        "meaning": "The Opener"
+        "transliteration": "Al-Fattah",
+        "description": "(The Opener) The Solver, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/18.mp3"
     },
     {
-        "name": "اَلْعَلِيْمُ",
-        "transliteration": "Al 'Aleem",
-        "meaning": "The Knower of all"
+        "number": 19,
+        "name": "الْعَلِيمُ",
+        "transliteration": "Al-Alim",
+        "description": "(The All-Knowing One) The Knowledgeable; The One nothing is absent from His knowledge",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/19.mp3"
     },
     {
+        "number": 20,
         "name": "الْقَابِضُ",
-        "transliteration": "Al Qaabid",
-        "meaning": "The Constrictor"
+        "transliteration": "Al-Qabid",
+        "description": "(The Restricting One) The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/20.mp3"
     },
     {
+        "number": 21,
         "name": "الْبَاسِطُ",
-        "transliteration": "Al Baasit",
-        "meaning": "The Reliever"
+        "transliteration": "Al-Basit",
+        "description": "(The Extender) The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/21.mp3"
     },
     {
+        "number": 22,
         "name": "الْخَافِضُ",
-        "transliteration": "Al Khaafid",
-        "meaning": "The Abaser"
+        "transliteration": "Al-Khafid",
+        "description": "(The Reducer) The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/22.mp3"
     },
     {
+        "number": 23,
         "name": "الرَّافِعُ",
-        "transliteration": "Ar Raafi'",
-        "meaning": "The Exalter"
+        "transliteration": "Ar-Rafi",
+        "description": "(The Elevating One) The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/23.mp3"
     },
     {
+        "number": 24,
         "name": "الْمُعِزُّ",
-        "transliteration": "Al Mu'iz",
-        "meaning": "The Bestower of Honour"
+        "transliteration": "Al-Mu'izz",
+        "description": "(The Honourer-Bestower) He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/24.mp3"
     },
     {
-        "name": "المُذِلُّ",
-        "transliteration": "Al Mudhil",
-        "meaning": "The Humiliator"
+        "number": 25,
+        "name": "الْمُذِلُّ",
+        "transliteration": "Al-Muzil",
+        "description": "(The Abaser) The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/25.mp3"
     },
     {
+        "number": 26,
         "name": "السَّمِيعُ",
-        "transliteration": "As Samee'",
-        "meaning": "The Hearer of all"
+        "transliteration": "As-Sami",
+        "description": "(The All-Hearer) The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/26.mp3"
     },
     {
+        "number": 27,
         "name": "الْبَصِيرُ",
-        "transliteration": "Al Baseer",
-        "meaning": "The Seer of all"
+        "transliteration": "Al-Baseer",
+        "description": "(The All-Seeing) The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/27.mp3"
     },
     {
+        "number": 28,
         "name": "الْحَكَمُ",
-        "transliteration": "Al Hakam",
-        "meaning": "The Judge"
+        "transliteration": "Al-Hakam",
+        "description": "(The Impartial Judge) The Judge, He is the Ruler andThe Judge, He is the Ruler and His judgment is His Word. His judgment is His Word.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/28.mp3"
     },
     {
+        "number": 29,
         "name": "الْعَدْلُ",
-        "transliteration": "Al 'Adl",
-        "meaning": "The Just"
+        "transliteration": "Al-Adl",
+        "description": "(The Embodiment of Justice) The Just, The One who is entitled to do what He does.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/29.mp3"
     },
     {
+        "number": 30,
         "name": "اللَّطِيفُ",
-        "transliteration": "Al Lateef",
-        "meaning": "The Subtle One"
+        "transliteration": "Al-Lateef",
+        "description": "(The Knower of Subtleties) The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/30.mp3"
     },
     {
+        "number": 31,
         "name": "الْخَبِيرُ",
-        "transliteration": "Al Khabeer",
-        "meaning": "The All Aware"
+        "transliteration": "Al-Khabir",
+        "description": "(The All-Aware One) The One who knows the truth of things.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/31.mp3"
     },
     {
+        "number": 32,
         "name": "الْحَلِيمُ",
-        "transliteration": "Al Haleem",
-        "meaning": "The Forebearing"
+        "transliteration": "Al-Haleem",
+        "description": "(The Clement One) The Forebearing, The One who delays the punishment for those who deserve it and then He might forgive them.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/32.mp3"
     },
     {
+        "number": 33,
         "name": "الْعَظِيمُ",
-        "transliteration": "Al 'Azeem",
-        "meaning": "The Maginificent"
+        "transliteration": "Al-Azeem",
+        "description": "(The Magnificent One) The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/33.mp3"
     },
     {
+        "number": 34,
         "name": "الْغَفُورُ",
-        "transliteration": "Al Ghafoor",
-        "meaning": "The Great Forgiver"
+        "transliteration": "Al-Ghafoor",
+        "description": "(The All-Forgiving) The All-Forgiving, The Forgiving, The One who forgives a lot.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/34.mp3"
     },
     {
+        "number": 35,
         "name": "الشَّكُورُ",
-        "transliteration": "Ash Shakoor",
-        "meaning": "The Rewarder of Thankfulness"
+        "transliteration": "Ash-Shakur",
+        "description": "(The Acknowledging One) The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/35.mp3"
     },
     {
+        "number": 36,
         "name": "الْعَلِيُّ",
-        "transliteration": "Al 'Aliyy",
-        "meaning": "The Highest"
+        "transliteration": "Al-Aliyy",
+        "description": "(The Sublime One) The Most High, The One who is clear from the attributes of the creatures.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/36.mp3"
     },
     {
+        "number": 37,
         "name": "الْكَبِيرُ",
-        "transliteration": "Al Kabeer",
-        "meaning": "The Greatest"
+        "transliteration": "Al-Kabeer",
+        "description": "(The Great One) The Most Great, The Great, The One who is greater than everything in status.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/37.mp3"
     },
     {
+        "number": 38,
         "name": "الْحَفِيظُ",
-        "transliteration": "Al Hafeez",
-        "meaning": "The Preserver"
+        "transliteration": "Al-Hafiz",
+        "description": "(The Guarding One) The Preserver, The Protector, The One who protects whatever and whoever He willed to protect.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/38.mp3"
     },
     {
-        "name": "المُقيِت",
-        "transliteration": "Al Muqeet",
-        "meaning": "The Nourisher"
+        "number": 39,
+        "name": "الْمُقِيتُ",
+        "transliteration": "Al-Muqeet",
+        "description": "(The Sustaining One) The Maintainer, The Guardian, The Feeder, The One who has the Power.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/39.mp3"
     },
     {
-        "name": "الْحسِيبُ",
-        "transliteration": "Al Haseeb",
-        "meaning": "The Reckoner"
+        "number": 40,
+        "name": "الْحَسِيبُ",
+        "transliteration": "Al-Haseeb",
+        "description": "(The Reckoning One) The Reckoner, The One who gives the satisfaction.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/40.mp3"
     },
     {
+        "number": 41,
         "name": "الْجَلِيلُ",
-        "transliteration": "Al Jaleel",
-        "meaning": "The Majestic"
+        "transliteration": "Al-Jaleel",
+        "description": "(The Majestic One) The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/41.mp3"
     },
     {
+        "number": 42,
         "name": "الْكَرِيمُ",
-        "transliteration": "Al Kareem",
-        "meaning": "The Generous"
+        "transliteration": "Al-Karim",
+        "description": "(The Bountiful One) The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/42.mp3"
     },
     {
+        "number": 43,
         "name": "الرَّقِيبُ",
-        "transliteration": "Ar Raqeeb",
-        "meaning": "The Watchful One"
+        "transliteration": "Ar-Raqib",
+        "description": "(The Watchful One) The Watcher, The One that nothing is absent from Him. Hence, it’s meaning is related to attribute of Knowledge.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/43.mp3"
     },
     {
+        "number": 44,
         "name": "الْمُجِيبُ",
-        "transliteration": "Al Mujeeb ",
-        "meaning": "The Responder to Prayer"
+        "transliteration": "Al-Mujeeb",
+        "description": "(The Responding One) The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearned if he calls upon Him.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/44.mp3"
     },
     {
+        "number": 45,
         "name": "الْوَاسِعُ",
-        "transliteration": "Al Waasi'",
-        "meaning": "The All Comprehending"
+        "transliteration": "Al-Wasi",
+        "description": "(The All-Pervading One) The Vast, The All-Embracing, The Knowledgeable.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/45.mp3"
     },
     {
+        "number": 46,
         "name": "الْحَكِيمُ",
-        "transliteration": "Al Hakeem",
-        "meaning": "The Perfectly Wise"
+        "transliteration": "Al-Hakeem",
+        "description": "(The Wise One) The Wise, The Judge of Judges, The One who is correct in His doings.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/46.mp3"
     },
     {
+        "number": 47,
         "name": "الْوَدُودُ",
-        "transliteration": "Al Wudood",
-        "meaning": "The Loving One"
+        "transliteration": "Al-Wadud",
+        "description": "(The Loving One) The Most Loving, The Most Affectionate, The Beloved",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/47.mp3"
     },
     {
+        "number": 48,
         "name": "الْمَجِيدُ",
-        "transliteration": "Al Majeed",
-        "meaning": "The Most Glorious One"
+        "transliteration": "Al-Majeed",
+        "description": "(The Glorious One) The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/48.mp3"
     },
     {
+        "number": 49,
         "name": "الْبَاعِثُ",
-        "transliteration": "Al Baa'ith",
-        "meaning": "The Resurrector"
+        "transliteration": "Al-Ba'ith",
+        "description": "(The Infuser of New Life ) The Awakener, The Resurrector, The Arouser",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/49.mp3"
     },
     {
+        "number": 50,
         "name": "الشَّهِيدُ",
-        "transliteration": "Ash Shaheed",
-        "meaning": "The Witness"
+        "transliteration": "Ash-Shaheed",
+        "description": "(The All Observing Witness) The Witness, The One who nothing is absent from Him.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/50.mp3"
     },
     {
+        "number": 51,
         "name": "الْحَقُّ",
-        "transliteration": "Al Haqq",
-        "meaning": "The Truth"
+        "transliteration": "Al-Haqq",
+        "description": "(The Embodiment of Truth) The Truth, The True, The One who truly exists.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/51.mp3"
     },
     {
+        "number": 52,
         "name": "الْوَكِيلُ",
-        "transliteration": "Al Wakeel",
-        "meaning": "The Trustee"
+        "transliteration": "Al-Wakeel",
+        "description": "(The Universal Trustee) The Trustee, The One who gives the satisfaction and is relied upon.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/52.mp3"
     },
     {
+        "number": 53,
         "name": "الْقَوِيُّ",
-        "transliteration": "Al Qawiyy",
-        "meaning": "The Possessor of all strength"
+        "transliteration": "Al-Qawiyy",
+        "description": "(The Strong One) The Most Strong, The Strong, The One with the complete Power.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/53.mp3"
     },
     {
+        "number": 54,
         "name": "الْمَتِينُ",
-        "transliteration": "Al Mateen",
-        "meaning": "The Forceful"
+        "transliteration": "Al-Matin",
+        "description": "(The Firm One) The One with extreme Power which is un-interrupted and He does not get tired.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/54.mp3"
     },
     {
+        "number": 55,
         "name": "الْوَلِيُّ",
-        "transliteration": "Al Waliyy",
-        "meaning": "The Protector"
+        "transliteration": "Al-Waliy",
+        "description": "(The Protecting Associate) The Protecting Friend, The Supporter.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/55.mp3"
     },
     {
+        "number": 56,
         "name": "الْحَمِيدُ",
-        "transliteration": "Al Hameed",
-        "meaning": "The Praised"
+        "transliteration": "Al-Hameed",
+        "description": "(The Sole-Laudable One) The Praiseworthy, The praised One who deserves to be praised.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/56.mp3"
     },
     {
+        "number": 57,
         "name": "الْمُحْصِي",
-        "transliteration": "Al Muhsi",
-        "meaning": "The Appraiser"
+        "transliteration": "Al-Muhsi",
+        "description": "(The All-Enumerating One) The Counter, The Reckoner, The One who the count of things are known to him.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/57.mp3"
     },
     {
+        "number": 58,
         "name": "الْمُبْدِئُ",
-        "transliteration": "Al Mubdi",
-        "meaning": "The Originator"
+        "transliteration": "Al-Mubdi",
+        "description": "(The Originator) The One who started the human being. That is, He created him.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/58.mp3"
     },
     {
+        "number": 59,
         "name": "الْمُعِيدُ",
-        "transliteration": "Al Mu'eed",
-        "meaning": "The Restorer"
+        "transliteration": "Al-Muid",
+        "description": "(The Restorer) The Reproducer, The One who brings back the creatures after death.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/59.mp3"
     },
     {
+        "number": 60,
         "name": "الْمُحْيِي",
-        "transliteration": "Al Muhiy",
-        "meaning": "The Giver of life"
+        "transliteration": "Al-Muhyi",
+        "description": "(The Maintainer of life) The Restorer, The Giver of Life.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/60.mp3"
     },
     {
-        "name": "اَلْمُمِيتُ",
-        "transliteration": "Al Mumeet",
-        "meaning": "The Taker of life"
+        "number": 61,
+        "name": "الْمُمِيتُ",
+        "transliteration": "Al-Mumeet",
+        "description": "(The Inflictor of Death) The Creator of Death, The Destroyer, The One who renders the living dead.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/61.mp3"
     },
     {
+        "number": 62,
         "name": "الْحَيُّ",
-        "transliteration": "Al Haiyy",
-        "meaning": "The Ever Living"
+        "transliteration": "Al-Hayy",
+        "description": "(The Eternally Living One) The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/62.mp3"
     },
     {
+        "number": 63,
         "name": "الْقَيُّومُ",
-        "transliteration": "Al Qayyoom",
-        "meaning": "The Self Existing"
+        "transliteration": "Al-Qayyum",
+        "description": "(The Self-Subsisting One) The Self-Subsisting, The Self-Existing One upon Whom all others depend",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/63.mp3"
     },
     {
+        "number": 64,
         "name": "الْوَاجِدُ",
-        "transliteration": "Al Waajid",
-        "meaning": "The Finder"
+        "transliteration": "Al-Wajid",
+        "description": "(The Pointing One) The Perceiver, The Finder, The Rich who is never poor. Al-Wajid is Richness.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/64.mp3"
     },
     {
+        "number": 65,
         "name": "الْمَاجِدُ",
-        "transliteration": "Al Maajid",
-        "meaning": "The Glorious"
+        "transliteration": "Al-Maajid",
+        "description": "(The All-Noble One) The Glorious, He who is Most Glorious.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/65.mp3"
     },
     {
-        "name": "الْواحِدُ",
-        "transliteration": "Al Waahid",
-        "meaning": "The Only One"
+        "number": 66,
+        "name": "الْوَاحِدُ",
+        "transliteration": "Al-Wahid",
+        "description": "(The Only One) The Unique, The One, The One without a partner.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/66.mp3"
     },
     {
-        "name": "اَلاَحَدُ",
-        "transliteration": "Al Ahad",
-        "meaning": "The One"
+        "number": 67,
+        "name": "الأَحَدُ",
+        "transliteration": "Al-Ahad",
+        "description": "(The Sole One) The One.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/67.mp3"
     },
     {
+        "number": 68,
         "name": "الصَّمَدُ",
-        "transliteration": "As Samad",
-        "meaning": "The Supreme Provider"
+        "transliteration": "As-Samad",
+        "description": "(The Supreme Provider) The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs. He is the only one a person should turn to when feeling helpless.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/68.mp3"
     },
     {
+        "number": 69,
         "name": "الْقَادِرُ",
-        "transliteration": "Al Qaadir",
-        "meaning": "The Powerful"
+        "transliteration": "Al-Qadir",
+        "description": "(The All-Powerful) The Able, The Capable, The One attributed with Power.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/69.mp3"
     },
     {
+        "number": 70,
         "name": "الْمُقْتَدِرُ",
-        "transliteration": "Al Muqtadir",
-        "meaning": "The Creator of all power"
+        "transliteration": "Al-Muqtadir",
+        "description": "(The All Authoritative One) The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/70.mp3"
     },
     {
+        "number": 71,
         "name": "الْمُقَدِّمُ",
-        "transliteration": "Al Muqaddim",
-        "meaning": "The Expediter"
+        "transliteration": "Al-Muqaddim",
+        "description": "(The Expediting One) The Expediter, The Promoter, The One who puts things in their right places.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/71.mp3"
     },
     {
+        "number": 72,
         "name": "الْمُؤَخِّرُ",
-        "transliteration": "Al Mu’akhir",
-        "meaning": "The Delayer"
+        "transliteration": "Al-Muakhkhir",
+        "description": "(The Delayer) The Postponer, He Who Puts Far Away. He makes ahead what He wills and delays what He wills.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/72.mp3"
     },
     {
-        "name": "الأوَّلُ",
-        "transliteration": "Al Awwal",
-        "meaning": "The First"
+        "number": 73,
+        "name": "الأَوَّلُ",
+        "transliteration": "Al-Awwal",
+        "description": "(The Very First) The First, The One whose Existence is without a beginning.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/73.mp3"
     },
     {
+        "number": 74,
         "name": "الآخِرُ",
-        "transliteration": "Al Aakhir",
-        "meaning": "The Last"
+        "transliteration": "Al-Akhir",
+        "description": "(The Infinite Last One) The Last, The One whose Existence is without an end.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/74.mp3"
     },
     {
+        "number": 75,
         "name": "الظَّاهِرُ",
-        "transliteration": "Az Zaahir",
-        "meaning": "The Manifest"
+        "transliteration": "Az-Zaahir",
+        "description": "(The Perceptible) The Manifest, The Conspicuous, The Evident",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/75.mp3"
     },
     {
+        "number": 76,
         "name": "الْبَاطِنُ",
-        "transliteration": "Al Baatin",
-        "meaning": "The Hidden"
+        "transliteration": "Al-Baatin",
+        "description": "(The Imperceptible) The Hidden, The Secret One, The Inner One, The Knower of Hidden Things",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/76.mp3"
     },
     {
+        "number": 77,
         "name": "الْوَالِي",
-        "transliteration": "Al Waali",
-        "meaning": "The Governor"
+        "transliteration": "Al-Wali",
+        "description": "(The Holder of Supreme Authority) The Governor, The One who owns things and manages them.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/77.mp3"
     },
     {
+        "number": 78,
         "name": "الْمُتَعَالِي",
-        "transliteration": "Al Muta’ali",
-        "meaning": "The Supreme One"
+        "transliteration": "Al-Mutaali",
+        "description": "(The Extremely Exalted One) The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/78.mp3"
     },
     {
+        "number": 79,
         "name": "الْبَرُّ",
-        "transliteration": "Al Barr",
-        "meaning": "The Doer of Good"
+        "transliteration": "Al-Barr",
+        "description": "(The Fountain-Head of Truth) The Source of All Goodness, The Righteous, The One who is kind to His creatures",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/79.mp3"
     },
     {
-        "name": "التَّوَابُ",
-        "transliteration": "At Tawwaab",
-        "meaning": "The Guide to Repentence"
+        "number": 80,
+        "name": "التَّوَّابُ",
+        "transliteration": "At-Tawwab",
+        "description": "(The Ever-Acceptor of Repentance) The Acceptor of Repentance, The Oft-Forgiving, The Acceptor of our Return",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/80.mp3"
     },
     {
+        "number": 81,
         "name": "الْمُنْتَقِمُ",
-        "transliteration": "Al Muntaqim",
-        "meaning": "The Avenger"
+        "transliteration": "Al-Muntaqim",
+        "description": "(The Retaliator) The Avenger, The Disapprover, The Inflictor of Retribution",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/81.mp3"
     },
     {
-        "name": "العَفُوُّ",
-        "transliteration": "Al Afuww",
-        "meaning": "The Forgiver"
+        "number": 82,
+        "name": "الْعَفُوُّ",
+        "transliteration": "Al-Afuw",
+        "description": "(The Supreme Pardoner) The Pardoner, The Forgiver and The Eliminator of Sins.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/82.mp3"
     },
     {
+        "number": 83,
         "name": "الرَّؤُوفُ",
-        "transliteration": "Ar Ra’oof",
-        "meaning": "The Clement"
+        "transliteration": "Ar-Rauf",
+        "description": "(The Benign One) The Most Kind, The Tenderly Merciful, The Clement and Compassionate",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/83.mp3"
     },
     {
+        "number": 84,
         "name": "مَالِكُ الْمُلْكِ",
-        "transliteration": "Maalik Ul Mulk",
-        "meaning": "The Owner / Soverign of All"
+        "transliteration": "Malikul-Mulk",
+        "description": "(The Eternal Possessor of Sovereignty) The One who controls the Dominion and gives dominion to whoever He willed.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/84.mp3"
     },
     {
-        "name": "ذُوالْجَلاَلِ وَالإكْرَامِ",
-        "transliteration": "Dhu Al Jalaali Wa Al Ikraam",
-        "meaning": "Possessor of Majesty and Bounty"
+        "number": 85,
+        "name": "ذُو الْجَلالِ وَالإِكْرَامِ",
+        "transliteration": "Dhul-Jalaali-Wal-Ikram",
+        "description": "(The Possessor of Majesty and Honour) The Lord of Majesty and Bounty.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/85.mp3"
     },
     {
+        "number": 86,
         "name": "الْمُقْسِطُ",
-        "transliteration": "Al Muqsit",
-        "meaning": "The Equitable One"
+        "transliteration": "Al-Muqsit",
+        "description": "(The Just One) The Equitable, The One who is Just in His judgment.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/86.mp3"
     },
     {
+        "number": 87,
         "name": "الْجَامِعُ",
-        "transliteration": "Al Jaami'",
-        "meaning": "The Gatherer"
+        "transliteration": "Al-Jami",
+        "description": "(The Assembler of Scattered Creations) The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/87.mp3"
     },
     {
+        "number": 88,
         "name": "الْغَنِيُّ",
-        "transliteration": "Al Ghaniyy",
-        "meaning": "The Rich One"
+        "transliteration": "Al-Ghaniy",
+        "description": "(The Self-Sufficient One) The One who does not need the creation.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/88.mp3"
     },
     {
+        "number": 89,
         "name": "الْمُغْنِي",
-        "transliteration": "Al Mughi",
-        "meaning": "The Enricher"
+        "transliteration": "Al-Mughni",
+        "description": "(The Enricher) The Emancipator, The Fulfiller of Needs, The Bestower of Wealth.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/89.mp3"
     },
     {
-        "name": "اَلْمَانِعُ",
-        "transliteration": "Al Maani'",
-        "meaning": "The Preventer of harm"
+        "number": 90,
+        "name": "الْمَانِعُ",
+        "transliteration": "Al-Mani",
+        "description": "(The Preventer) The Withholder.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/90.mp3"
     },
     {
-        "name": "الضَّارَّ",
-        "transliteration": "Ad Daaarr",
-        "meaning": "The Creator of the harmful"
+        "number": 91,
+        "name": "الضَّارُّ",
+        "transliteration": "Ad-Darr",
+        "description": "(The Distressor) The Correcter, The Balancer, The Distresser, The Afflicter, The Punisher.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/91.mp3"
     },
     {
+        "number": 92,
         "name": "النَّافِعُ",
-        "transliteration": "An Naafi’",
-        "meaning": "The Bestower of Benefits"
+        "transliteration": "An-Naafi",
+        "description": "(The Bestower of Benefits) The Creator of Good, The Benefiter, The Propitious, The Auspicious",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/92.mp3"
     },
     {
+        "number": 93,
         "name": "النُّورُ",
-        "transliteration": "An Noor",
-        "meaning": "The Light"
+        "transliteration": "An-Noor",
+        "description": "(The Prime Light) The Light, The One who guides.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/93.mp3"
     },
     {
+        "number": 94,
         "name": "الْهَادِي",
-        "transliteration": "Al Haadi",
-        "meaning": "The Guider"
+        "transliteration": "Al-Hadi",
+        "description": "(The Provider of Guidance) The Guide, The Leader, The Guide of the Right Path",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/94.mp3"
     },
     {
+        "number": 95,
         "name": "الْبَدِيعُ",
-        "transliteration": "Al Badi'",
-        "meaning": "The Originator"
+        "transliteration": "Al-Badi",
+        "description": "(The Unique One) The Wonderful Originator, The Unprecedented and Incomparable Inventor",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/95.mp3"
     },
     {
-        "name": "اَلْبَاقِي",
-        "transliteration": "Al Baaqi",
-        "meaning": "The Everlasting One"
+        "number": 96,
+        "name": "الْبَاقِي",
+        "transliteration": "Al-Baaqi",
+        "description": "(The Ever Surviving One) The Everlasting, The Ever-Enduring, The Ever-Present",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/96.mp3"
     },
     {
+        "number": 97,
         "name": "الْوَارِثُ",
-        "transliteration": "Al Waarith",
-        "meaning": "The Inhertior"
+        "transliteration": "Al-Warith",
+        "description": "(The Eternal Inheritor) The Heir, The One whose Existence remains.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/97.mp3"
     },
     {
+        "number": 98,
         "name": "الرَّشِيدُ",
-        "transliteration": "Ar Rasheed",
-        "meaning": "The Most Righteous Guide"
+        "transliteration": "Ar-Rasheed",
+        "description": "(The Guide to Path of Rectitude) The Guide to the Right Path, The One who guides.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/98.mp3"
     },
     {
+        "number": 99,
         "name": "الصَّبُورُ",
-        "transliteration": "As Saboor",
-        "meaning": "The Patient One"
+        "transliteration": "As-Sabur",
+        "description": "(The Extensively Enduring One) The Patient, The One who does not quickly punish the sinners.",
+        "audio_url": "http://6a0371d6d2c0468550d1fdea--gleaming-tapioca-363d34.netlify.app/99.mp3"
     }
 ]
