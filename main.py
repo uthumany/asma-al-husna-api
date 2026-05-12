@@ -6,7 +6,7 @@ import os
 app = FastAPI(
     title="Asma Al Husna API with Fonts & Audio",
     description="A simple API for the 99 names of Allah (Asma Al Husna) with Arabic font support and audio URLs.",
-    version="3.0.0"
+    version="3.1.0"
 )
 
 # Define the path to the pre-processed data file
@@ -152,6 +152,7 @@ async def get_root():
                 <p><strong>API Endpoints:</strong></p>
                 <p>JSON API: <code>/api/names?font=reem-kufi-fun</code></p>
                 <p>Audio API: <code>/api/audio</code></p>
+                <p>Details API: <code>/api/details</code></p>
                 <p>Available fonts: <code>{font_list_text}</code></p>
             </div>
             
@@ -272,6 +273,28 @@ async def get_audio_urls():
         "audio_names": audio_data
     }
 
+@app.get("/api/details", summary="Get all 99 names with full details")
+async def get_details():
+    """
+    Returns a JSON array containing Allah's Name Number, Arabic Name, Transliteration, English Name, and Description.
+    """
+    if "error" in asma_al_husna_data:
+        return JSONResponse(status_code=500, content=asma_al_husna_data)
+    
+    details_data = []
+    for item in asma_al_husna_data:
+        details_data.append({
+            "number": item["number"],
+            "name_arabic": item["name"],
+            "transliteration": item["transliteration"],
+            "description": item["description"]
+        })
+    
+    return {
+        "count": len(details_data),
+        "names_details": details_data
+    }
+
 @app.get("/api/names/fonts", summary="Get available fonts")
 async def get_fonts():
     """Returns a list of all available fonts."""
@@ -289,7 +312,7 @@ async def get_fonts():
 @app.get("/health", summary="Health check endpoint")
 async def health_check():
     """Returns a simple status message."""
-    return {"status": "ok", "version": "3.0.0"}
+    return {"status": "ok", "version": "3.1.0"}
 
 if __name__ == "__main__":
     import uvicorn
