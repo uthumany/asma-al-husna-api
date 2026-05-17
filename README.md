@@ -1,6 +1,6 @@
 # asma-al-husna-api
 
-A simple, static JSON API endpoint containing the 99 names of Allah (Asma Al Husna), including the Arabic name, transliteration, and English meaning.
+A simple, static JSON API endpoint containing the 99 names of Allah (Asma Al Husna), including the Arabic name, transliteration, Audio, Descriptions and English meaning.
 
 This project was created by extracting data from the AlAdhan API.
 
