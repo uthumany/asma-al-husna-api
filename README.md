@@ -1,4 +1,4 @@
-# asma-al-husna-api
+# 99 Names of Allah (Al Asma Ul Husna)
 
 A simple, static JSON API endpoint containing the 99 names of Allah (Asma Al Husna), including the Arabic name, transliteration, Audio, Descriptions and English meaning.
 
