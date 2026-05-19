@@ -8,11 +8,14 @@ This project was created by extracting data from the AlAdhan API.
 
 The data is served as a static JSON file via GitHub Pages.
 
-**Endpoint URL:** `https://uthumany.github.io/asma-al-husna-api/api/names.json`
+**Names Endpoint URL:** `https://uthumany.github.io/asma-al-husna-api/api/names.json`
+**Badges Endpoint URL:** `https://uthumany.github.io/asma-al-husna-api/api/badges.json`
 
 ## Data Structure
 
-The endpoint returns a JSON array of objects, where each object has the following structure:
+### Names Endpoint
+
+The names endpoint returns a JSON array of objects, where each object has the following structure:
 
 ```json
 [
@@ -22,6 +25,23 @@ The endpoint returns a JSON array of objects, where each object has the followin
     "meaning": "The Beneficent"
   },
   // ... 98 more names
+]
+```
+
+### Badges Endpoint
+
+The badges endpoint returns a JSON array of objects containing CDN URLs for badge images:
+
+```json
+[
+  {
+    "Allah's Name Number": 1,
+    "Allah's Name Arabic": "الرَّحْمَنُ",
+    "Allah's Name Transliteration": "Ar Rahmaan",
+    "Allah's Names English": "The Beneficent",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/01_Ar_Rahman.png"
+  },
+  // ... 98 more badges
 ]
 ```
 
