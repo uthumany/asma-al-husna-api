@@ -1,0 +1,695 @@
+[
+  {
+    "Allah's Name Number": 1,
+    "Allah's Name Arabic": "الرَّحْمَنُ",
+    "Allah's Name Transliteration": "Ar Rahmaan",
+    "Allah's Names English": "The Beneficent",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/01_Ar_Rahman.png"
+  },
+  {
+    "Allah's Name Number": 2,
+    "Allah's Name Arabic": "الرَّحِيمُ",
+    "Allah's Name Transliteration": "Ar Raheem",
+    "Allah's Names English": "The Merciful",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/02_Ar_Rahim.png"
+  },
+  {
+    "Allah's Name Number": 3,
+    "Allah's Name Arabic": "الْمَلِكُ",
+    "Allah's Name Transliteration": "Al Malik",
+    "Allah's Names English": "The King / Eternal Lord",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/03_Al_Malik.png"
+  },
+  {
+    "Allah's Name Number": 4,
+    "Allah's Name Arabic": "الْقُدُّوسُ",
+    "Allah's Name Transliteration": "Al Quddus",
+    "Allah's Names English": "The Purest",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/04_Al_Quddus.png"
+  },
+  {
+    "Allah's Name Number": 5,
+    "Allah's Name Arabic": "السَّلاَمُ",
+    "Allah's Name Transliteration": "As Salaam",
+    "Allah's Names English": "The Source of Peace",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/05_As_Salam.png"
+  },
+  {
+    "Allah's Name Number": 6,
+    "Allah's Name Arabic": "الْمُؤْمِنُ",
+    "Allah's Name Transliteration": "Al Mu'min",
+    "Allah's Names English": "The inspirer of faith",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/06_Al_Mumin.png"
+  },
+  {
+    "Allah's Name Number": 7,
+    "Allah's Name Arabic": "الْمُهَيْمِنُ",
+    "Allah's Name Transliteration": "Al Muhaymin",
+    "Allah's Names English": "The Guardian",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/07_Al_Muhaymin.png"
+  },
+  {
+    "Allah's Name Number": 8,
+    "Allah's Name Arabic": "الْعَزِيزُ",
+    "Allah's Name Transliteration": "Al Azeez",
+    "Allah's Names English": "The Precious / The Most Mighty",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/08_Al_Aziz.png"
+  },
+  {
+    "Allah's Name Number": 9,
+    "Allah's Name Arabic": "الْجَبَّارُ",
+    "Allah's Name Transliteration": "Al Jabbaar",
+    "Allah's Names English": "The Compeller",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/09_Al_Jabbar.png"
+  },
+  {
+    "Allah's Name Number": 10,
+    "Allah's Name Arabic": "الْمُتَكَبِّرُ",
+    "Allah's Name Transliteration": "Al Mutakabbir",
+    "Allah's Names English": "The Greatest",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/10_Al_Mutakabbir.png"
+  },
+  {
+    "Allah's Name Number": 11,
+    "Allah's Name Arabic": "الْخَالِقُ",
+    "Allah's Name Transliteration": "Al Khaaliq",
+    "Allah's Names English": "The Creator",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/11_Al_Khaliq.png"
+  },
+  {
+    "Allah's Name Number": 12,
+    "Allah's Name Arabic": "الْبَارِئُ",
+    "Allah's Name Transliteration": "Al Baari",
+    "Allah's Names English": "The Maker of Order",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/12_Al_Bari.png"
+  },
+  {
+    "Allah's Name Number": 13,
+    "Allah's Name Arabic": "الْمُصَوِّرُ",
+    "Allah's Name Transliteration": "Al Musawwir",
+    "Allah's Names English": "The Shaper of Beauty",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/13_Al_Musawwir.png"
+  },
+  {
+    "Allah's Name Number": 14,
+    "Allah's Name Arabic": "الْغَفَّارُ",
+    "Allah's Name Transliteration": "Al Ghaffaar",
+    "Allah's Names English": "The Forgiving",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/14_Al_Ghaffar.png"
+  },
+  {
+    "Allah's Name Number": 15,
+    "Allah's Name Arabic": "الْقَهَّارُ",
+    "Allah's Name Transliteration": "Al Qahhaar",
+    "Allah's Names English": "The Subduer",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/15_Al_Qahhar.png"
+  },
+  {
+    "Allah's Name Number": 16,
+    "Allah's Name Arabic": "الْوَهَّابُ",
+    "Allah's Name Transliteration": "Al Wahhaab",
+    "Allah's Names English": "The Giver of All",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/16_Al_Wahhab.png"
+  },
+  {
+    "Allah's Name Number": 17,
+    "Allah's Name Arabic": "الرَّزَّاقُ",
+    "Allah's Name Transliteration": "Ar Razzaaq",
+    "Allah's Names English": "The Sustainer",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/17_Ar_Razzaq.png"
+  },
+  {
+    "Allah's Name Number": 18,
+    "Allah's Name Arabic": "الْفَتَّاحُ",
+    "Allah's Name Transliteration": "Al Fattaah",
+    "Allah's Names English": "The Opener",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/18_Al_Fattah.png"
+  },
+  {
+    "Allah's Name Number": 19,
+    "Allah's Name Arabic": "اَلْعَلِيْمُ",
+    "Allah's Name Transliteration": "Al 'Aleem",
+    "Allah's Names English": "The Knower of all",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/19_Al_Alim.png"
+  },
+  {
+    "Allah's Name Number": 20,
+    "Allah's Name Arabic": "الْقَابِضُ",
+    "Allah's Name Transliteration": "Al Qaabid",
+    "Allah's Names English": "The Constrictor",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/20_Al_Qabid.png"
+  },
+  {
+    "Allah's Name Number": 21,
+    "Allah's Name Arabic": "الْبَاسِطُ",
+    "Allah's Name Transliteration": "Al Baasit",
+    "Allah's Names English": "The Reliever",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/21_Al_Basit.png"
+  },
+  {
+    "Allah's Name Number": 22,
+    "Allah's Name Arabic": "الْخَافِضُ",
+    "Allah's Name Transliteration": "Al Khaafid",
+    "Allah's Names English": "The Abaser",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/22_Al_Khafid.png"
+  },
+  {
+    "Allah's Name Number": 23,
+    "Allah's Name Arabic": "الرَّافِعُ",
+    "Allah's Name Transliteration": "Ar Raafi'",
+    "Allah's Names English": "The Exalter",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/23_Ar_Rafic.png"
+  },
+  {
+    "Allah's Name Number": 24,
+    "Allah's Name Arabic": "الْمُعِزُّ",
+    "Allah's Name Transliteration": "Al Mu'iz",
+    "Allah's Names English": "The Bestower of Honour",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/24_Al_Muiz.png"
+  },
+  {
+    "Allah's Name Number": 25,
+    "Allah's Name Arabic": "المُذِلُّ",
+    "Allah's Name Transliteration": "Al Mudhil",
+    "Allah's Names English": "The Humiliator",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/25_Al_Mudhil.png"
+  },
+  {
+    "Allah's Name Number": 26,
+    "Allah's Name Arabic": "السَّمِيعُ",
+    "Allah's Name Transliteration": "As Samee'",
+    "Allah's Names English": "The Hearer of all",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/26_As_Sami.png"
+  },
+  {
+    "Allah's Name Number": 27,
+    "Allah's Name Arabic": "الْبَصِيرُ",
+    "Allah's Name Transliteration": "Al Baseer",
+    "Allah's Names English": "The Seer of all",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/27_Al_Basir.png"
+  },
+  {
+    "Allah's Name Number": 28,
+    "Allah's Name Arabic": "الْحَكَمُ",
+    "Allah's Name Transliteration": "Al Hakam",
+    "Allah's Names English": "The Judge",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/28_Al_Hakam.png"
+  },
+  {
+    "Allah's Name Number": 29,
+    "Allah's Name Arabic": "الْعَدْلُ",
+    "Allah's Name Transliteration": "Al 'Adl",
+    "Allah's Names English": "The Just",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/29_Al_Adl.png"
+  },
+  {
+    "Allah's Name Number": 30,
+    "Allah's Name Arabic": "اللَّطِيفُ",
+    "Allah's Name Transliteration": "Al Lateef",
+    "Allah's Names English": "The Subtle One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/30_Al_Latif.png"
+  },
+  {
+    "Allah's Name Number": 31,
+    "Allah's Name Arabic": "الْخَبِيرُ",
+    "Allah's Name Transliteration": "Al Khabeer",
+    "Allah's Names English": "The All Aware",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/31_Al_Khabir.png"
+  },
+  {
+    "Allah's Name Number": 32,
+    "Allah's Name Arabic": "الْحَلِيمُ",
+    "Allah's Name Transliteration": "Al Haleem",
+    "Allah's Names English": "The Forebearing",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/32_Al_Halim.png"
+  },
+  {
+    "Allah's Name Number": 33,
+    "Allah's Name Arabic": "الْعَظِيمُ",
+    "Allah's Name Transliteration": "Al 'Azeem",
+    "Allah's Names English": "The Maginificent",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/33_Al_Azim.png"
+  },
+  {
+    "Allah's Name Number": 34,
+    "Allah's Name Arabic": "الْغَفُورُ",
+    "Allah's Name Transliteration": "Al Ghafoor",
+    "Allah's Names English": "The Great Forgiver",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/34_Al_Ghafur.png"
+  },
+  {
+    "Allah's Name Number": 35,
+    "Allah's Name Arabic": "الشَّكُورُ",
+    "Allah's Name Transliteration": "Ash Shakoor",
+    "Allah's Names English": "The Rewarder of Thankfulness",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/35_Ash_Shakur.png"
+  },
+  {
+    "Allah's Name Number": 36,
+    "Allah's Name Arabic": "الْعَلِيُّ",
+    "Allah's Name Transliteration": "Al 'Aliyy",
+    "Allah's Names English": "The Highest",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/36_Al_Aliyy.png"
+  },
+  {
+    "Allah's Name Number": 37,
+    "Allah's Name Arabic": "الْكَبِيرُ",
+    "Allah's Name Transliteration": "Al Kabeer",
+    "Allah's Names English": "The Greatest",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/37_Al_Kabir.png"
+  },
+  {
+    "Allah's Name Number": 38,
+    "Allah's Name Arabic": "الْحَفِيظُ",
+    "Allah's Name Transliteration": "Al Hafeez",
+    "Allah's Names English": "The Preserver",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/38_Al_Hafiz.png"
+  },
+  {
+    "Allah's Name Number": 39,
+    "Allah's Name Arabic": "المُقيِت",
+    "Allah's Name Transliteration": "Al Muqeet",
+    "Allah's Names English": "The Nourisher",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/39_Al_Muqit.png"
+  },
+  {
+    "Allah's Name Number": 40,
+    "Allah's Name Arabic": "الْحسِيبُ",
+    "Allah's Name Transliteration": "Al Haseeb",
+    "Allah's Names English": "The Accounter",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/40_Al_Hasib.png"
+  },
+  {
+    "Allah's Name Number": 41,
+    "Allah's Name Arabic": "الْجَلِيلُ",
+    "Allah's Name Transliteration": "Al Jaleel",
+    "Allah's Names English": "The Mighty",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/41_Al_Jalil.png"
+  },
+  {
+    "Allah's Name Number": 42,
+    "Allah's Name Arabic": "الْكَرِيمُ",
+    "Allah's Name Transliteration": "Al Kareem",
+    "Allah's Names English": "The Generous",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/42_Al_Karim.png"
+  },
+  {
+    "Allah's Name Number": 43,
+    "Allah's Name Arabic": "الرَّقِيبُ",
+    "Allah's Name Transliteration": "Ar Raqeeb",
+    "Allah's Names English": "The Watchful One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/43_Ar_Raqib.png"
+  },
+  {
+    "Allah's Name Number": 44,
+    "Allah's Name Arabic": "الْمُجِيبُ",
+    "Allah's Name Transliteration": "Al Mujeeb",
+    "Allah's Names English": "The Responder to Prayer",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/44_Al_Mujib.png"
+  },
+  {
+    "Allah's Name Number": 45,
+    "Allah's Name Arabic": "الْوَاسِعُ",
+    "Allah's Name Transliteration": "Al Waasi'",
+    "Allah's Names English": "The All Comprehending",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/45_Al_Wasi.png"
+  },
+  {
+    "Allah's Name Number": 46,
+    "Allah's Name Arabic": "الْحَكِيمُ",
+    "Allah's Name Transliteration": "Al Hakeem",
+    "Allah's Names English": "The Perfectly Wise",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/46_Al_Hakim.png"
+  },
+  {
+    "Allah's Name Number": 47,
+    "Allah's Name Arabic": "الْوَدُودُ",
+    "Allah's Name Transliteration": "Al Wadood",
+    "Allah's Names English": "The Loving One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/47_Al_Wadud.png"
+  },
+  {
+    "Allah's Name Number": 48,
+    "Allah's Name Arabic": "الْمَجِيدُ",
+    "Allah's Name Transliteration": "Al Majeed",
+    "Allah's Names English": "The Majestic One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/48_Al_Majid.png"
+  },
+  {
+    "Allah's Name Number": 49,
+    "Allah's Name Arabic": "الْبَاعِثُ",
+    "Allah's Name Transliteration": "Al Ba'ith",
+    "Allah's Names English": "The Resurrector",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/49_Al_Baith.png"
+  },
+  {
+    "Allah's Name Number": 50,
+    "Allah's Name Arabic": "الشَّهِيدُ",
+    "Allah's Name Transliteration": "Ash Shaheed",
+    "Allah's Names English": "The Witness",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/50_Ash_Shahid.png"
+  },
+  {
+    "Allah's Name Number": 51,
+    "Allah's Name Arabic": "الْحَقُّ",
+    "Allah's Name Transliteration": "Al Haqq",
+    "Allah's Names English": "The Truth",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/51_Al_Haqq.png"
+  },
+  {
+    "Allah's Name Number": 52,
+    "Allah's Name Arabic": "الْوَكِيلُ",
+    "Allah's Name Transliteration": "Al Wakeel",
+    "Allah's Names English": "The Trustee",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/52_Al_Wakil.png"
+  },
+  {
+    "Allah's Name Number": 53,
+    "Allah's Name Arabic": "الْقَوِيُّ",
+    "Allah's Name Transliteration": "Al Qawiyy",
+    "Allah's Names English": "The Possessor of All Strength",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/53_Al_Qawiyy.png"
+  },
+  {
+    "Allah's Name Number": 54,
+    "Allah's Name Arabic": "الْمَتِينُ",
+    "Allah's Name Transliteration": "Al Mateen",
+    "Allah's Names English": "The Forceful One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/54_Al_Matin.png"
+  },
+  {
+    "Allah's Name Number": 55,
+    "Allah's Name Arabic": "الْوَلِيُّ",
+    "Allah's Name Transliteration": "Al Waliyy",
+    "Allah's Names English": "The Governor",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/55_Al_Waliyy.png"
+  },
+  {
+    "Allah's Name Number": 56,
+    "Allah's Name Arabic": "الْحَمِيدُ",
+    "Allah's Name Transliteration": "Al Hameed",
+    "Allah's Names English": "The Praised One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/56_Al_Hamid.png"
+  },
+  {
+    "Allah's Name Number": 57,
+    "Allah's Name Arabic": "الْمُحْصِي",
+    "Allah's Name Transliteration": "Al Muhsee",
+    "Allah's Names English": "The Appraiser",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/57_Al_Muhsi.png"
+  },
+  {
+    "Allah's Name Number": 58,
+    "Allah's Name Arabic": "الْمُبْدِئُ",
+    "Allah's Name Transliteration": "Al Mubdi",
+    "Allah's Names English": "The Originator",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/58_Al_Mubdi.png"
+  },
+  {
+    "Allah's Name Number": 59,
+    "Allah's Name Arabic": "الْمُعِيدُ",
+    "Allah's Name Transliteration": "Al Mu'eed",
+    "Allah's Names English": "The Restorer",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/59_Al_Muid.png"
+  },
+  {
+    "Allah's Name Number": 60,
+    "Allah's Name Arabic": "الْمُحْيِي",
+    "Allah's Name Transliteration": "Al Muhyee",
+    "Allah's Names English": "The Giver of Life",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/60_Al_Muhyi.png"
+  },
+  {
+    "Allah's Name Number": 61,
+    "Allah's Name Arabic": "اَلْمُمِيتُ",
+    "Allah's Name Transliteration": "Al Mumeet",
+    "Allah's Names English": "The Taker of Life",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/61_Al_Mumit.png"
+  },
+  {
+    "Allah's Name Number": 62,
+    "Allah's Name Arabic": "الْحَيُّ",
+    "Allah's Name Transliteration": "Al Hayy",
+    "Allah's Names English": "The Ever Living One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/62_Al_Hayy.png"
+  },
+  {
+    "Allah's Name Number": 63,
+    "Allah's Name Arabic": "الْقَيُّومُ",
+    "Allah's Name Transliteration": "Al Qayyoom",
+    "Allah's Names English": "The Self-Existing One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/63_Al_Qayyum.png"
+  },
+  {
+    "Allah's Name Number": 64,
+    "Allah's Name Arabic": "الْوَاجِدُ",
+    "Allah's Name Transliteration": "Al Waajid",
+    "Allah's Names English": "The Finder",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/64_Al_Wajid.png"
+  },
+  {
+    "Allah's Name Number": 65,
+    "Allah's Name Arabic": "الْمَاجِدُ",
+    "Allah's Name Transliteration": "Al Maajid",
+    "Allah's Names English": "The Glorious",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/65_Al_Majid.png"
+  },
+  {
+    "Allah's Name Number": 66,
+    "Allah's Name Arabic": "الْواحِدُ",
+    "Allah's Name Transliteration": "Al Waahid",
+    "Allah's Names English": "The Only One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/66_Al_Wahid.png"
+  },
+  {
+    "Allah's Name Number": 67,
+    "Allah's Name Arabic": "اَلاَحَدُ",
+    "Allah's Name Transliteration": "Al Ahad",
+    "Allah's Names English": "The One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/67_Al_Ahad.png"
+  },
+  {
+    "Allah's Name Number": 68,
+    "Allah's Name Arabic": "الصَّمَدُ",
+    "Allah's Name Transliteration": "As Samad",
+    "Allah's Names English": "The Satisfier of All Needs",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/68_As_Samad.png"
+  },
+  {
+    "Allah's Name Number": 69,
+    "Allah's Name Arabic": "الْقَادِرُ",
+    "Allah's Name Transliteration": "Al Qaadir",
+    "Allah's Names English": "The All Powerful",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/69_Al_Qadir.png"
+  },
+  {
+    "Allah's Name Number": 70,
+    "Allah's Name Arabic": "الْمُقْتَدِرُ",
+    "Allah's Name Transliteration": "Al Muqtadir",
+    "Allah's Names English": "The Creator of All Power",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/70_Al_Muqtadir.png"
+  },
+  {
+    "Allah's Name Number": 71,
+    "Allah's Name Arabic": "الْمُقَدِّمُ",
+    "Allah's Name Transliteration": "Al Muqaddim",
+    "Allah's Names English": "The Expediter",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/71_Al_Muqaddim.png"
+  },
+  {
+    "Allah's Name Number": 72,
+    "Allah's Name Arabic": "الْمُؤَخِّرُ",
+    "Allah's Name Transliteration": "Al Mu’akhir",
+    "Allah's Names English": "The Delayer",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/72_Al_Muakhkhir.png"
+  },
+  {
+    "Allah's Name Number": 73,
+    "Allah's Name Arabic": "الأوَّلُ",
+    "Allah's Name Transliteration": "Al Awwal",
+    "Allah's Names English": "The First",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/73_Al_Awwal.png"
+  },
+  {
+    "Allah's Name Number": 74,
+    "Allah's Name Arabic": "الآخِرُ",
+    "Allah's Name Transliteration": "Al Aakhir",
+    "Allah's Names English": "The Last",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/74_Al_Akhir.png"
+  },
+  {
+    "Allah's Name Number": 75,
+    "Allah's Name Arabic": "الظَّاهِرُ",
+    "Allah's Name Transliteration": "Az Zaahir",
+    "Allah's Names English": "The Manifest",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/75_Az_Zahir.png"
+  },
+  {
+    "Allah's Name Number": 76,
+    "Allah's Name Arabic": "الْبَاطِنُ",
+    "Allah's Name Transliteration": "Al Baatin",
+    "Allah's Names English": "The Hidden",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/76_Al_Batin.png"
+  },
+  {
+    "Allah's Name Number": 77,
+    "Allah's Name Arabic": "الْوَالِي",
+    "Allah's Name Transliteration": "Al Waali",
+    "Allah's Names English": "The Governor",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/77_Al_Wali.png"
+  },
+  {
+    "Allah's Name Number": 78,
+    "Allah's Name Arabic": "الْمُتَعَالِي",
+    "Allah's Name Transliteration": "Al Muta’ali",
+    "Allah's Names English": "The Supreme One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/78_Al_Mutaali.png"
+  },
+  {
+    "Allah's Name Number": 79,
+    "Allah's Name Arabic": "الْبَرُّ",
+    "Allah's Name Transliteration": "Al Barr",
+    "Allah's Names English": "The Doer of Good",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/79_Al_Barr.png"
+  },
+  {
+    "Allah's Name Number": 80,
+    "Allah's Name Arabic": "التَّوَابُ",
+    "Allah's Name Transliteration": "At Tawwaab",
+    "Allah's Names English": "The Guide to Repentence",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/80_At_Tawwab.png"
+  },
+  {
+    "Allah's Name Number": 81,
+    "Allah's Name Arabic": "الْمُنْتَقِمُ",
+    "Allah's Name Transliteration": "Al Muntaqim",
+    "Allah's Names English": "The Avenger",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/81_Al_Muntaqim.png"
+  },
+  {
+    "Allah's Name Number": 82,
+    "Allah's Name Arabic": "العَفُوُّ",
+    "Allah's Name Transliteration": "Al Afuww",
+    "Allah's Names English": "The Forgiver",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/82_Al_Afuww.png"
+  },
+  {
+    "Allah's Name Number": 83,
+    "Allah's Name Arabic": "الرَّؤُوفُ",
+    "Allah's Name Transliteration": "Ar Ra’oof",
+    "Allah's Names English": "The Clement",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/83_Ar_Rauf.png"
+  },
+  {
+    "Allah's Name Number": 84,
+    "Allah's Name Arabic": "مَالِكُ الْمُلْكِ",
+    "Allah's Name Transliteration": "Maalik Ul Mulk",
+    "Allah's Names English": "The Owner / Soverign of All",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/84_Malik_ul_Mulk.png"
+  },
+  {
+    "Allah's Name Number": 85,
+    "Allah's Name Arabic": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+    "Allah's Name Transliteration": "Dhu Al Jalaali Wa Al Ikraam",
+    "Allah's Names English": "Possessor of Majesty and Bounty",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/85_Dhul_Jalali_wal_Ikram.png"
+  },
+  {
+    "Allah's Name Number": 86,
+    "Allah's Name Arabic": "الْمُقْسِطُ",
+    "Allah's Name Transliteration": "Al Muqsit",
+    "Allah's Names English": "The Equitable One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/86_Al_Muqsit.png"
+  },
+  {
+    "Allah's Name Number": 87,
+    "Allah's Name Arabic": "الْجَامِعُ",
+    "Allah's Name Transliteration": "Al Jaami'",
+    "Allah's Names English": "The Gatherer",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/87_Al_Jami.png"
+  },
+  {
+    "Allah's Name Number": 88,
+    "Allah's Name Arabic": "الْغَنِيُّ",
+    "Allah's Name Transliteration": "Al Ghaniyy",
+    "Allah's Names English": "The Rich One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/88_Al_Ghaniyy.png"
+  },
+  {
+    "Allah's Name Number": 89,
+    "Allah's Name Arabic": "الْمُغْنِي",
+    "Allah's Name Transliteration": "Al Mughi",
+    "Allah's Names English": "The Enricher",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/89_Al_Mughni.png"
+  },
+  {
+    "Allah's Name Number": 90,
+    "Allah's Name Arabic": "اَلْمَانِعُ",
+    "Allah's Name Transliteration": "Al Maani'",
+    "Allah's Names English": "The Preventer of harm",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/90_Al_Mani.png"
+  },
+  {
+    "Allah's Name Number": 91,
+    "Allah's Name Arabic": "الضَّارَّ",
+    "Allah's Name Transliteration": "Ad Daaarr",
+    "Allah's Names English": "The Creator of the harmful",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/91_Ad_Darr.png"
+  },
+  {
+    "Allah's Name Number": 92,
+    "Allah's Name Arabic": "النَّافِعُ",
+    "Allah's Name Transliteration": "An Naafi’",
+    "Allah's Names English": "The Bestower of Benefits",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/92_An_Nafi.png"
+  },
+  {
+    "Allah's Name Number": 93,
+    "Allah's Name Arabic": "النُّورُ",
+    "Allah's Name Transliteration": "An Noor",
+    "Allah's Names English": "The Light",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/93_An_Nur.png"
+  },
+  {
+    "Allah's Name Number": 94,
+    "Allah's Name Arabic": "الْهَادِي",
+    "Allah's Name Transliteration": "Al Haadi",
+    "Allah's Names English": "The Guider",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/94_Al_Hadi.png"
+  },
+  {
+    "Allah's Name Number": 95,
+    "Allah's Name Arabic": "الْبَدِيعُ",
+    "Allah's Name Transliteration": "Al Badi'",
+    "Allah's Names English": "The Originator",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/95_Al_Badi.png"
+  },
+  {
+    "Allah's Name Number": 96,
+    "Allah's Name Arabic": "اَلْبَاقِي",
+    "Allah's Name Transliteration": "Al Baaqi",
+    "Allah's Names English": "The Everlasting One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/96_Al_Baqi.png"
+  },
+  {
+    "Allah's Name Number": 97,
+    "Allah's Name Arabic": "الْوَارِثُ",
+    "Allah's Name Transliteration": "Al Waarith",
+    "Allah's Names English": "The Inhertior",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/97_Al_Warith.png"
+  },
+  {
+    "Allah's Name Number": 98,
+    "Allah's Name Arabic": "الرَّشِيدُ",
+    "Allah's Name Transliteration": "Ar Rasheed",
+    "Allah's Names English": "The Most Righteous Guide",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/98_Ar_Rashid.png"
+  },
+  {
+    "Allah's Name Number": 99,
+    "Allah's Name Arabic": "الصَّبُورُ",
+    "Allah's Name Transliteration": "As Saboor",
+    "Allah's Names English": "The Patient One",
+    "PNG CDN URL": "https://asma-al-husna-badges-cdn.netlify.app/99_As_Sabur.png"
+  }
+]
